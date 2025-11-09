@@ -13,12 +13,6 @@
 
 ---
 
-## Demo
-
-![LinkBuddy UI](demo.png) *(Add a screenshot of your app here if available)*
-
----
-
 ## Setup
 
 ### Prerequisites
@@ -30,5 +24,5 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/linkbuddy.git
+   git clone https://https://github.com/Khushbu-at-Nit/LinkBuddy.git
    cd linkbuddy
